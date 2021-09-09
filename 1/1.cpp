@@ -11,6 +11,6 @@ int main()
     int y;
     std::cin >> x >> y;
 
-    std::cout << x << "+" << y << "=" << plus(x,y);
+    std::cout << x << "+" << y << "=" << plus(x,y) <<"\n";
     std::cout << x << "-" << y << "+" << subtract(x, y);
 }
