@@ -24,5 +24,8 @@
     <ClCompile Include="subtract.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="multiply.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

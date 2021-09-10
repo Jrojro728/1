@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1.cpp" />
+    <ClCompile Include="multiply.cpp" />
     <ClCompile Include="plus.cpp" />
     <ClCompile Include="subtract.cpp" />
   </ItemGroup>
