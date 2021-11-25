@@ -16,4 +16,6 @@ int main()
     std::cout << x << "-" << y << "=" << subtract(x, y) <<"\n";
     std::cout << x << "*" << y << "=" << multiply(x, y) << "\n";
     std::cout << x << "÷" << y << "=" << divide(x, y) << "\n";
+
+    return 0;
 }
